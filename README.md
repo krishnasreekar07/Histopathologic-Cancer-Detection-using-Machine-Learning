@@ -1,1 +1,1 @@
-# DSCI-6007-02-Histopathologic-Cancer-Detection
+# DSCI-6007-02-Histopathologic-Cancer_Detection
